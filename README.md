@@ -75,7 +75,7 @@ This assignment focuses on analyzing and solving large linear systems using both
 #### Visualization Example
 
 <p align="center">
-  <img src="repo_img/residual_plot.png" alt="Residual Plot" style="margin-top: 16px; margin-bottom: 16px;" />
+  <img src="repo_img/1.png" alt="Residual Plot" style="margin-top: 16px; margin-bottom: 16px;" />
 </p>
 
 ---
