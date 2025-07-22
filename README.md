@@ -121,7 +121,7 @@ Different laboratory sessions were completed by various student groups from the 
 - **Institution**: Universidad Carlos III de Madrid (UC3M)
 - **Program**: Aerospace Engineering
 - **Course**: Modeling
-- **Academic Year**: 2024
+- **Academic Year**: 2024-2025
 
 ## 🤝 Contribution
 Contributions are welcome. If you want to add or improve a simulation, create a pull request or open an issue to discuss it.
